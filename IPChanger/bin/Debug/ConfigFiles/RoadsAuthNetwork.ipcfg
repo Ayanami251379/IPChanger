@@ -1,0 +1,6 @@
+[Network Interface]
+IPAddress=192.168.120.211
+SubnetMask=255.255.255.0
+DefaultGateway=192.168.120.1
+DNS1=192.168.120.201
+DNS2=

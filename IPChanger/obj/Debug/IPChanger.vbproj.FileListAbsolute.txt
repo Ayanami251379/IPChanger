@@ -1,0 +1,16 @@
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\bin\Debug\IPChanger.exe.config
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\bin\Debug\IPChanger.exe
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\bin\Debug\IPChanger.pdb
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\bin\Debug\IPChanger.xml
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\bin\Debug\MadMilkman.Ini.dll
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\bin\Debug\MadMilkman.Ini.pdb
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\bin\Debug\MadMilkman.Ini.xml
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\obj\Debug\IPChanger.vbprojAssemblyReference.cache
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\obj\Debug\IPChanger.MainForm.resources
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\obj\Debug\IPChanger.Resources.resources
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\obj\Debug\IPChanger.vbproj.GenerateResource.cache
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\obj\Debug\IPChanger.vbproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\obj\Debug\IPChanger.vbproj.CopyComplete
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\obj\Debug\IPChanger.exe
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\obj\Debug\IPChanger.xml
+C:\Users\Juan\Documents\GitHub\Projects\IPChanger\IPChanger\obj\Debug\IPChanger.pdb
